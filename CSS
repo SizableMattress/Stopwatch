@@ -1,0 +1,45 @@
+body {
+  background-color: black;
+}
+
+.container {
+	width:500px;
+	margin-top:50px;
+	padding:20px; 
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+	
+}
+
+.stopwatch {
+	display:inline-block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.time {
+	
+	font-family: arial, helvetica, sans-serif;
+	font-size: 100px;
+	color:white;
+	
+}
+
+
+button{
+	width:150px;
+	margin: 5px;
+	margin-top: 10px;
+	font-family: arial, helvetica, sans-serif;
+	font-size: 40px;
+	border-radius: 5px;
+	background-color: white;
+	color:black;
+	
+}
+
+span {
+  min-width:100px;
+  
+}
