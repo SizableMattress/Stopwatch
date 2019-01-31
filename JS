@@ -1,3 +1,4 @@
+
 function stopWatch(element) {
 	
     var hrs, mins, secs, msecs;
